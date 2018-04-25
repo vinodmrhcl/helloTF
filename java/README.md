@@ -38,6 +38,6 @@ Now you are all set to use TensorFlow features on Java.
 
 You can use following test program to check the environment.
 
-[HelloTF.java](java/src/main/java/HelloTF.java)
+[HelloTF.java](src/main/java/HelloTF.java)
 
 This is basically creating an Operation Graph with a Const and assigning value as current version. For fetching it you need to run it inside a session.
