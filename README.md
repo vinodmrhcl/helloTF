@@ -2,4 +2,4 @@
 Hello World TensorFlow
 
 - [HelloTF for Java](java)
-- [HelloTF for JS](JS)
+- [HelloTF for JS](js)
