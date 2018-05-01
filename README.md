@@ -1,4 +1,6 @@
 # Hello World TensorFlow
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FERS-HCL%2FHelloTF.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FERS-HCL%2FHelloTF?ref=badge_shield)
+
 
 Nowadays, there is a great market for machine learning and deep learning enthusiasts, as it is a niche technology, but it also requires different programming skillset.
 
@@ -14,3 +16,7 @@ You can enhance your learning for specific platform using these tutorials.
 
 - [HelloTF for Java](java)
 - [HelloTF for JS](js)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FERS-HCL%2FHelloTF.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FERS-HCL%2FHelloTF?ref=badge_large)
